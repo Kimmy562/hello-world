@@ -1,7 +1,8 @@
-![MasterHead](https://t4.ftcdn.net/jpg/03/08/75/99/360_F_308759900_bprfZ1shmL5y9wxG0JfZ6hgcfCF8rJcI.jpg)
-<h1 align="center">Hi 👋, I'm Kimberly</h1>
-<h3 align="center">A student who's learning to code.</h3>
 
+<h1 align="left">Hi, I'm Kimberly</h1>
+<h3 align="left">A student who's learning to code.</h3>
+
+<p align="left"> <img src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" alt="kimmy562" /> </p>
 
 - 🌱 I’m currently learning **Javascript**
 
