@@ -1,6 +1,7 @@
-![MasterHead](https://cdn-e-careers.scdn5.secure.raxcdn.com/images/make-art-by-coding-create-an-svg-scene-for-web-animation.jpg)
+![MasterHead](https://t4.ftcdn.net/jpg/03/08/75/99/360_F_308759900_bprfZ1shmL5y9wxG0JfZ6hgcfCF8rJcI.jpg)
 <h1 align="center">Hi 👋, I'm Kimberly</h1>
 <h3 align="center">A student who's learning to code.</h3>
+
 
 - 🌱 I’m currently learning **Javascript**
 
